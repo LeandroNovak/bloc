@@ -1,7 +1,6 @@
 name: bloc
 description: "An alternative BLoC implementation"
 version: 0.0.1
-homepage: https://novakode.com.br/bloc
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
